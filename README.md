@@ -1,6 +1,6 @@
 ## Hello There! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"  width="30px">
 
-## I am [Burhanuddin Merchant](burhanuddinmerchant.ml).
+## I am [Burhanuddin Merchant](http://burhanuddinmerchant.ml).
 
 - A Third Year Computer Engineering Undergrad from [Pune Institute of Computer Technology](https://pict.edu/).
 - SDE intern [@DataOrc](https://dataorc.in/)
