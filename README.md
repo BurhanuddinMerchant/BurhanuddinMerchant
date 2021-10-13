@@ -9,8 +9,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddin-merchant-89b14a198/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmerchant945@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/burza/)
+[![Codechef](https://img.shields.io/badge/codechef-%23b92b27.svg?&style=for-the-badge&logo=codechef&logocolor=white)](https://www.codechef.com/users/burza)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/burhanuddin_merchant__/)
 
+<p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=BurhanuddinMerchant)
 
 ## ⚡ Technologies & Tools
@@ -55,3 +57,5 @@
 [![Burhanuddin's github activity graph](https://activity-graph.herokuapp.com/graph?username=BurhanuddinMerchant&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### PS: I also produce Music [![MusicByBurza](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn9nXXAefC9YeFHCKqH6QkA) [![MusicByBurza](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/musicbyburza/)
+
+</p>
