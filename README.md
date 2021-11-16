@@ -3,7 +3,7 @@
 ## I am [Burhanuddin Merchant](http://burhanuddinmerchant.ml).
 
 - A Third Year Computer Engineering Undergrad from [Pune Institute of Computer Technology](https://pict.edu/).
-- SDE intern [@DataOrc](https://dataorc.in/)
+- Former SDE intern [@DataOrc](https://dataorc.in/)
 - I am always open to collaborating on projects & am also open to any internships. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddin-merchant-89b14a198/)
